@@ -1,3 +1,2 @@
 # Demo-repo
-
-*here i WILL PRACTICE *GIT & GITHUB* *
+Here i WILL PRACTICE *GIT & GITHUB* 
