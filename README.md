@@ -1,3 +1,3 @@
-# demo-repo
+# Demo-repo
 
-*here i <will practice> markdown*
+*here i WILL PRACTICE *GIT & GITHUB* *
