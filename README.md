@@ -1,2 +1,2 @@
 # Demo-repo
-Here i WILL PRACTICE *GIT & GITHUB* 
+Here i will practice *GIT & GITHUB* 
